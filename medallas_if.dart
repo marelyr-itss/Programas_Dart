@@ -12,6 +12,5 @@ void main(){
   }
    else {print("SIGUE INTENTANDO");
   }
-  
 
 }
